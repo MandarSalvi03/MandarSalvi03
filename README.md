@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! 👋<br> <br>🔭 I’m currently working on : Amazon clone https://replit.com/@mandyscreation0/Amazon<br>🌱 I’m currently learning : Backend development
+# Hi there! 👋
+💫 About Me:<br> <br>🔭 I’m currently working on : Amazon clone https://replit.com/@mandyscreation0/Amazon<br>🌱 I’m currently learning : Backend development
 
 
 ## 🌐 Socials:
